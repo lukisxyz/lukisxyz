@@ -3,8 +3,6 @@
   Web dev focused on creating user-friendly, accessible websites using HTML, CSS, and JS. Passionate about UX and a11y.
 </h3>
 
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://golang.org" target="_blank" rel="noreferrer">
